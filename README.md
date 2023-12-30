@@ -17,9 +17,10 @@ The following **required** functionality is completed:
 
 <div>
     <a href="https://www.loom.com/share/f9151b90f0a94c2d8b7e526c5201ac3e">
+      <p>IOS101-Prework - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/f9151b90f0a94c2d8b7e526c5201ac3e">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f9151b90f0a94c2d8b7e526c5201ac3e-with-play.gif">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f9151b90f0a94c2d8b7e526c5201ac3e-1703900627821-with-play.gif">
     </a>
   </div>
 

@@ -25,6 +25,20 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
+App 1: Apple Books
+~ Syncretization across different devices
+~ Night mode to avoiding straining your eyes
+
+App 2: Spotify
+~ Having personalized/"For You" playlists
+~ Offline listening/being able to download songs
+
+App 3: Amazon
+~ Customer reviews and ratings to learn more about products
+~ 1-Click makes ordering items easier and more efficient
+
+App Idea: Fitness App that provides nutritional meals, mental wellness resources and workout plans. Using the app, users can access their workouts and save their progress. With a tab about nutrition, users can find meal ideas for their fitness journey. The app will also include support for mental health by having the user track their sleep, journal, etc.
+
 ## Notes
 
 Describe any challenges encountered while building the app.

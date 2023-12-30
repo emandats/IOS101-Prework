@@ -1,8 +1,8 @@
-# Prework - *IOS101-Prework*
+# Prework - *IntroApp*
 
 Submitted by: **Emanda Seifu**
 
-**IOS101-Prework** is an app that introduces the user and changes the background colors with a randomizing button. 
+**IntroApp** is an app that introduces the user and changes the background colors with a randomizing button. 
 
 Time spent: **0.5** hours spent in total
 

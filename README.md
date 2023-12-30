@@ -4,7 +4,7 @@ Submitted by: **Emanda Seifu**
 
 **IntroApp** is an app that introduces the user and changes the background colors with a randomizing button. 
 
-Time spent: **0.5** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
